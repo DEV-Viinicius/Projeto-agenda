@@ -1,28 +1,27 @@
-🗂️ Gerador de Agenda – Solivetti
+🗂️**Gerador de Agenda – Solivetti**
 
-Este projeto foi desenvolvido para organizar e gerar automaticamente a agenda de técnicos da empresa solivetti, a partir de um relatório de Ordens de Serviço retirado do ERP.
-O sistema lê a planilha de origem, filtra os técnicos desejados e exporta um Excel formatado, pronto para uso no dia a dia.
+Este projeto foi criado para facilitar a organização e geração automática da agenda dos técnicos da Solivetti, utilizando relatórios de Ordens de Serviço extraídos do ERP. O sistema lê a planilha de origem, filtra os técnicos desejados e gera uma planilha Excel formatada, pronta para uso diário.
 
-⚙️ Funcionalidades
+⚙️**Funcionalidades**
 
-📑 Leitura automática de relatórios de O.S.
+ - 📑 Leitura automática de relatórios de O.S.
 
-👷 Filtro por técnicos selecionados.
+ - 👷 Filtro por técnicos selecionados.
 
-📊 Geração de planilha organizada e formatada.
+ - 📊 Geração de planilhas organizadas e formatadas.
 
-🎨 Cabeçalhos e cores personalizados.
+ - 🎨 Cabeçalhos e cores personalizadas.
 
-🖼️ Inserção automática da logo da Solivetti.
+ - 🖼️ Inserção automática do logo da Solivetti.
 
-🖥️ Interface simples em Tkinter para escolher a planilha de origem.
+ - 🖥️ Interface simples em Tkinter para selecionar a planilha de origem.
 
-🚀 Como usar
+🚀**Como usar**
 
-Abra o programa (script .py ou versão .exe).
+   1º Abra o programa (script .py ou versão .exe).
 
-Clique em Selecionar Planilha e Gerar.
+   2º Clique em Selecionar Planilha e Gerar.
 
-Escolha o arquivo de relatório de O.S. (.xls ou .xlsx).
+   3º Escolha o arquivo de relatório de O.S. (.xls ou .xlsx).
 
-O sistema gera automaticamente o arquivo AGENDA_FILTRADA.xlsx na mesma pasta.
+O sistema gerará automaticamente o arquivo AGENDA_FILTRADA.xlsx na mesma pasta, contendo apenas as informações relevantes para uso na empresa.
